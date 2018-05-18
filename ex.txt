@@ -1,12 +1,22 @@
-<<<<<<< HEAD
+
 fdghdfgh
 
 
 sdfghfdcv
 dfgh
-=======
+
 fdghdfghsfkldsfljkdsgjldfjlgdfjl
->>>>>>> refs/remotes/origin/master
+refs/remotes/origin/master
 
 
+<<<<<<< HEAD
 hgfedhgjnfhdgsav
+
+
+asdsakdksaldjsadfj
+
+
+adsaldasld
+
+hfewgdvbhcxn
+
