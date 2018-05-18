@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 fdghdfgh
 
 
 sdfghfdcv
 dfgh
+=======
+fdghdfghsfkldsfljkdsgjldfjlgdfjl
+>>>>>>> refs/remotes/origin/master
